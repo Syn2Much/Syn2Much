@@ -21,14 +21,14 @@
 
 ## 📦 Featured Projects
 
-| Project | Description | Language | Stars |
-|---------|-------------|----------|-------|
-| [**VisionC2**](https://github.com/Syn2Much/VisionC2) | Advanced C2 framework with DDOS, RCE, and SOCKS5 modules. Multi-layer encryption, TLS 1.3, 14+ CPU architectures | Go | ⭐ |
-| [**Sniffox**](https://github.com/Syn2Much/sniffox) | Browser-based network sniffer with real-time packet capture, deep protocol dissection, 3D traffic visualization, and live threat detection | Go/JS | ⭐ |
-| [**Slayer-L7**](https://github.com/Syn2Much/Slayer-L7) | High-performance HTTP/S stress testing tool supporting GET/POST floods, HTTP/2 Rapid Reset, WebSocket flood, proxy rotation | Go | ⭐ |
-| [**upx-stripper**](https://github.com/Syn2Much/upx-stripper) | Heuristic analysis tool for detecting and stripping UPX packers from binaries | Python | ⭐ |
-| [**dvr-scanner**](https://github.com/Syn2Much/dvr-scanner) | Multi-threaded scanner for fingerprinting and logging DVR/NVR devices from IP lists | Python | ⭐ |
-| [**telnet_loader**](https://github.com/Syn2Much/telnet_loader) | Multithreaded Mirai telnet loader — connects to combo lists and executes user-provided payloads | Python | ⭐ |
+| Project | Description | Language 
+|---------|-------------|---------
+| [**VisionC2**](https://github.com/Syn2Much/VisionC2) | Advanced C2 framework with DDOS, RCE, and SOCKS5 modules. Multi-layer encryption, TLS 1.3, 14+ CPU architectures | Go 
+| [**Sniffox**](https://github.com/Syn2Much/sniffox) | Browser-based network sniffer with real-time packet capture, deep protocol dissection, 3D traffic visualization, and live threat detection | Go/JS 
+| [**Slayer-L7**](https://github.com/Syn2Much/Slayer-L7) | High-performance HTTP/S stress testing tool supporting GET/POST floods, HTTP/2 Rapid Reset, WebSocket flood, proxy rotation | Go 
+| [**upx-stripper**](https://github.com/Syn2Much/upx-stripper) | Heuristic analysis tool for detecting and stripping UPX packers from binaries | Python
+| [**dvr-scanner**](https://github.com/Syn2Much/dvr-scanner) | Multi-threaded scanner for fingerprinting and logging DVR/NVR devices from IP lists | Python 
+| [**telnet_loader**](https://github.com/Syn2Much/telnet_loader) | Multithreaded Mirai telnet loader — connects to combo lists and executes user-provided payloads | Python 
 
 ---
 
