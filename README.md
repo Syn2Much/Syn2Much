@@ -29,6 +29,8 @@
 | [**upx-stripper**](https://github.com/Syn2Much/upx-stripper) | Heuristic analysis tool for detecting and stripping UPX packers from binaries | Python
 | [**dvr-scanner**](https://github.com/Syn2Much/dvr-scanner) | Multi-threaded scanner for fingerprinting and logging DVR/NVR devices from IP lists | Python 
 | [**telnet_loader**](https://github.com/Syn2Much/telnet_loader) | Multithreaded Mirai telnet loader — connects to combo lists and executes user-provided payloads | Python 
+| [**MANTIS**](https://github.com/Syn2Much/MANTIS) | All-in-one Honeypot deployment kit featuring a real-time dashboard with live WebSocket updates, attack geolocation, and payload/IOC analysis | Python
+
 
 ---
 
